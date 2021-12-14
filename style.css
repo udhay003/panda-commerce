@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+#carouselExampleControls{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 20px;
+
+}
+.price{
+    color: #FF136F;
+}
+.buy-now{
+    padding: 5px 5px;
+    background: linear-gradient(to bottom,#FF136F 0%,rgb(180, 49, 49) 100%);
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    width: 15x;
+    font-family: 'Montserrat', sans-serif;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 5px;
+    margin-top: auto;
+}
+.cat1,.cat2,.cat3 h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+   
+}
+.cat2{
+    background-color: #FF136F;
+    padding: 10px 30px;
+    
+}
+.cat3{
+    background-color: royalblue;
+    padding: 10px 30px;
+  
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 5px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscriber{
+    border-radius: 7px;
+    background-color: pink;
+    height: 300px;
+}
+#subscriber h6{
+    color: gray;
+}
+footer{
+    border-top: 20px;
+}
+small{
+    text-align: center;
+}
+small{
+    color: rgb(59, 59, 226);
+}
+ 
